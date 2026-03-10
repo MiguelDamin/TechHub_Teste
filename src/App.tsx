@@ -7,7 +7,7 @@ import Products from "./pages/Products.tsx";
 function App() {
   return (
     <Router>
-      <div className="App fade-in">
+      <div className="min-h-screen flex flex-col font-sans">
         <Navbar />
         <main>
           <Routes>
