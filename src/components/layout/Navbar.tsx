@@ -10,7 +10,7 @@ const Navbar = () => {
         <div className="nav-brand">
           <Menu className="menu-icon" size={24} />
           <Link to="/">
-            <h2>Tech<span className="text-primary">Hub</span></h2>
+            <h2>Tech<span className="text-primary">Pericles</span></h2>
           </Link>
         </div>
         
