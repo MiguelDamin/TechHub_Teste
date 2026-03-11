@@ -10,7 +10,7 @@ const Home = () => {
         <div className="container hero-content">
           <div className="hero-text">
             <h1 className="hero-title">
-              Discover <span className="text-primary">Premium</span> Quality Products
+              Descubra <span className="text-primary">Premium</span> Quality Products
             </h1>
             <p className="hero-subtitle">
               Shop the latest trends with exclusive deals. Fast shipping, guaranteed satisfaction, and top-tier customer service.
